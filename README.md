@@ -74,3 +74,5 @@ IsoBean 如同電子商品，在覈心電路板上整合電阻、電容、二極
 |[ESP32控制](https://web.diylogi.com/?isobean=ib_wb-vis-0003_esp32-led-dht&userkey=d795b2b5-67c0-4674-9961-4aa574311c8d)|在界面中顯示溫濕度，ESP32通過WS傳輸溫濕度。|
 |[線上視訊播放](https://web.diylogi.com/?isobean=ib_nb-vis-0001_player&userkey=d795b2b5-67c0-4674-9961-4aa574311c8d)|在url中指定參數執行播放，可選參數有視訊平臺與視訊編號。|
 |[大屏報表](https://web.diylogi.com/?isobean=ib_wb-das-0001_dashboard_demo1&userkey=d795b2b5-67c0-4674-9961-4aa574311c8d)|使用大螢幕展示數據，可實現實時變化展示。|
+
+* **IsoBean 簡介**：https://isoface.net/isoface/home/isobean/ai-beans
