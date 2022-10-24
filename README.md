@@ -7,7 +7,7 @@ IsoBean微服務採用分佈式系統，FastWeb將傳統應用系統拆分為，
 > 
 > **點讚追蹤 Facebook 粉絲專頁**
 > 
-> [https://www.facebook.com/diylogi](https://www.facebook.com/diylogi)
+> [https://www.facebook.com/AIOT.ERP](https://www.facebook.com/AIOT.ERP)
 
 ## IsoBean開發跨平臺應用軟體APP，快速佈署智慧服務
 
