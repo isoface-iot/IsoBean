@@ -9,6 +9,8 @@ IsoBean微服務採用分佈式系統，FastWeb將傳統應用系統拆分為，
 > 
 > [https://www.facebook.com/AIOT.ERP](https://www.facebook.com/AIOT.ERP)
 
+IsoBean 为 FastWeb 中的一項功能，如需要使用IsoBean，請訪問 [FastWeb](https://github.com/isoface-iot/FastWeb)、[FastWeb下載頁面](https://github.com/isoface-iot/FastWeb/releases/latest)。
+
 ## IsoBean開發跨平臺應用軟體APP，快速佈署智慧服務
 
 * 簡潔專業的開發環境
